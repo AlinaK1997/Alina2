@@ -49,3 +49,5 @@ print(lista_di_persone)
 #     if input_utente.lower() == "exit":
 #         break
 # print(palla_magica_risposte[random.randit(0, len(palla_magica_risposte)-1)])
+
+print("Hi Alina!")
